@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment folders
+venv/
+env/
+
+# Logs and database files
+*.log
+*.sqlite3
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Node.js specific
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python egg
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Environment variable files
+.env
